@@ -1,0 +1,2 @@
+rootProject.name = "API Handling MVVM"
+include ':app'
